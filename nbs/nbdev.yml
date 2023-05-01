@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "crowe-GL-loader"
+  site-url: "https://claude-guan.github.io/crowe-GL-loader"
+  description: "A library to process Crowe general ledgers."
+  repo-branch: main
+  repo-url: "https://github.com/claude-guan/crowe-GL-loader"
